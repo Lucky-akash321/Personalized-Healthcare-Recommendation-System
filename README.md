@@ -14,6 +14,10 @@ The Personalized Healthcare Recommendation System aims to offer tailored healthc
 - **Evaluation**: Assess the accuracy and effectiveness of the recommendations.
 - **Deployment**: Develop an application or API for real-world usage of the recommendation system.
 
+
+!![](https://github.com/Lucky-akash321/Personalized-Healthcare-Recommendation-System/blob/main/1-s2.0-S2405844023100521-gr2.jpg)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
