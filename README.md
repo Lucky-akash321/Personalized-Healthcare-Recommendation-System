@@ -1,5 +1,8 @@
 # Personalized Healthcare Recommendation System
 
+![](https://github.com/Lucky-akash321/Personalized-Healthcare-Recommendation-System/blob/main/1_SB-IOVR8sSMOl2qUB8LCQw.png)
+
+
 ## Overview
 
 The Personalized Healthcare Recommendation System aims to offer tailored healthcare advice and treatment plans to individuals based on their personal health data. The system uses machine learning and data analytics to process information such as medical history, lifestyle, and biometric data, providing customized recommendations to improve overall health and well-being. This project focuses on developing a system that uses advanced algorithms to suggest personalized recommendations to individuals, including diet, exercise, medication, and preventive care, based on their unique health profiles.
