@@ -1,0 +1,6 @@
+# BeautifulSoup
+beautifulsoup4
+requests
+pandas
+openai
+pinecone-client
